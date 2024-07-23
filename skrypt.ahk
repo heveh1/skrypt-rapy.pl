@@ -196,4 +196,4 @@ send {LButton up}
 }
 return
 f8::
-guiclose
+exitapp
